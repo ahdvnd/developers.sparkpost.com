@@ -1,5 +1,12 @@
 # developers.sparkpost.com
 
+I tried this: 
+
+`npm rebuild`
+`sudo gatsby develop`
+
+The original instruction
+
 This repo contains the code and documentation that powers [developers.sparkpost.com](https://developers.sparkpost.com).
 
 ## Get started
